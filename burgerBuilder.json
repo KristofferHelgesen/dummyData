@@ -1,0 +1,36 @@
+{
+
+"ingredients":{
+    
+           "BreadTop":{
+                "amount": [1],
+                "price": "5"
+            },
+            "Cheese": {
+                "amount": [1,1,1,1,1],
+                "price": "5"
+            },
+            "Meat": {
+                "amount": [1],
+                "price": "10"
+            },
+            "Salad":{
+                "amount": [1],
+                "price": "4"
+            },
+            "Bacon":{
+                "amount": [1],
+                "price": "5"
+            },    
+            "Potato":{
+                "amount": [1],
+                "price": "5"
+            },
+            "BreadBottom":{
+                "amount": [1],
+                "price": "5"
+            }
+
+        }
+
+}
